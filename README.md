@@ -3,9 +3,9 @@ https://roaring-bonbon-969f1f.netlify.app
 
 Стэк:
 
-TypeScript
-ChakraUI
-React
+TypeScript,
+ChakraUI,
+React,
 React Beautiful DND
 
 Присутствует drag and drop функционал и смена темы со светлой на темную.
